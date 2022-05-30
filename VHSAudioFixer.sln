@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHSAudioFixer", "VHSAudioFixer\VHSAudioFixer.csproj", "{0CDA0CEC-35BB-4417-95BC-4EDDE7EB6F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDA0CEC-35BB-4417-95BC-4EDDE7EB6F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDA0CEC-35BB-4417-95BC-4EDDE7EB6F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDA0CEC-35BB-4417-95BC-4EDDE7EB6F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDA0CEC-35BB-4417-95BC-4EDDE7EB6F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {640C4C78-A45C-4B91-BFD0-C323AF0D3018}
+	EndGlobalSection
+EndGlobal
